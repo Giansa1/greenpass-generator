@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!greenpassusr/bin/env python3
 """
 Covid1984 Green Pass Generator
 """
@@ -41,7 +41,7 @@ DATA = {
                 "gn": "Paul Joseph"
             },
             "ver": "1.0.0",
-            "dob": "1897-10-29"
+            "dob": "1492-10-29"
         }
     }
 }
